@@ -39,7 +39,7 @@ o	Gradle will automatically download and install the required dependencies when 
 	Click on the "Run" button in Android Studio.
 
 
-Usage 🚀
+## Usage 🚀
 To use the HealthPulse app, follow these steps:
 1.	Register or Log in:
 o	Register as a new user or log in with your existing credentials.
@@ -53,7 +53,7 @@ o	View, reschedule, or cancel your appointments as needed.
 	Use the secure messaging system to communicate with your doctor.
 
 
-Technologies Used 🛠️
+## Technologies Used 🛠️
 
 •	Android Studio: For developing the Android application.
 
@@ -70,7 +70,7 @@ Technologies Used 🛠️
 •	Material Design: For creating a modern and intuitive user interface.
 
 
-Future Enhancements 🔮
+## Future Enhancements 🔮
 
 •	Telemedicine: Integrate video call functionality for remote consultations.
 
@@ -83,7 +83,7 @@ Future Enhancements 🔮
 •	Integration with Wearables: Sync with wearable devices to provide doctors with real-time health data.
 
 
-Acknowledgements 🙏
+## Acknowledgements 🙏
 
 We would like to thank the following resources and communities for their invaluable support:
 
@@ -93,7 +93,7 @@ We would like to thank the following resources and communities for their invalua
 
 •	Material Design: For offering design guidelines and components.
 
-Contact 📬
+## Contact 📬
 
 For any questions or suggestions, feel free to contact me:
 
