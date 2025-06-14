@@ -37,7 +37,8 @@ class TopDoctorsActivity : BaseActivity() {
             })
             viewModel.loadDoctors()
 
-            backBtn.setOnClickListener { finish() }
+            backBtn.setOnClickListener { finish() 
+            }
         }
     }
 }
